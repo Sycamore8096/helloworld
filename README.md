@@ -1,5 +1,5 @@
-project0
+Hello world!
 ========
 
-A repository for the project0 from CS75 (PizzaML)
+Some description
 My name is Roman
